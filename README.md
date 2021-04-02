@@ -14,6 +14,6 @@ Collect open source project sites
 - IBM: https://www.ibm.com/opensource/
 - Salesforce: https://opensource.salesforce.com/
 
-### GOV:
+### Government:
 
 - Nasa: https://code.nasa.gov/
