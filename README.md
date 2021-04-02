@@ -3,17 +3,25 @@ Collect open source project sites
 
 ## Sites Open Source 
 
-### Enterprise:
+### Enterprise
 
-- Microsoft: https://opensource.microsoft.com/projects/
+- Amazon: https://aws.amazon.com/es/opensource/?blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
 - Facebook: https://opensource.facebook.com/projects
 - Google: https://opensource.google/projects/explore/featured
-- Twitter: https://twitter.github.io/projects/
-- Amazon: https://aws.amazon.com/es/opensource/?blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
-- Oracle: https://developer.oracle.com/opensource/
 - IBM: https://www.ibm.com/opensource/
+- Intel: https://www.intel.com/content/www/us/en/artificial-intelligence/open-source.html
+- Microsoft: https://opensource.microsoft.com/projects/
+- Nvidia: https://developer.nvidia.com/open-source
+- Oracle: https://developer.oracle.com/opensource/
 - Salesforce: https://opensource.salesforce.com/
+- SAP: https://developers.sap.com/open-source.html#all-projects
+- Twitter: https://twitter.github.io/projects/
+- VMware: https://vmware.github.io/
 
-### Government:
+### Government
 
 - Nasa: https://code.nasa.gov/
+
+### Organizations
+
+- CERN: https://opendata.cern.ch/search?page=1&size=20&type=Software
